@@ -2,4 +2,4 @@
 
 A custom startup page for your browser. 
 
-![preview](https://github.com/timothypholmes/startup-page/blob/main/preview.png)
+![preview](https://github.com/timothypholmes/start-page-chicago/blob/main/preview.png)
